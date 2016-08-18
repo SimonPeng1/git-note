@@ -1,0 +1,19 @@
+git init 
+
+git add
+
+git commit
+
+git reset
+
+git revert
+
+git checkout
+
+git stash
+
+git branch
+
+git log 
+
+git blame
